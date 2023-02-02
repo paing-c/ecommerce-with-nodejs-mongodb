@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63d0f049f5d8ff070c0b858a"
+  },
+  "user": {
+    "email": "customer@gmail.com",
+    "userId": {
+      "$oid": "63d0ec038cc3ad3f94b0616a"
+    }
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "63d0f049f5d8ff070c0b858b"
+      },
+      "quantity": 2,
+      "product": {
+        "_id": {
+          "$oid": "63d0ebdc8cc3ad3f94b06162"
+        },
+        "title": "I Phone",
+        "price": 779,
+        "description": "6.7-inch Super Retina XDR display with OLED\r\nA14 Bionic chip with 16-core Neural Engine\r\nVideo playback: Up to 20 hours\r\n5G, Gigabit LTE and 802.11ax Wi‑Fi with 2x2 MIMO",
+        "imageUrl": "images\\7530852b-1eac-4415-a91b-f07f4c8b4f5f-refurb-iphone-12-pro-max-gold-2020 (1).jfif",
+        "userId": {
+          "$oid": "63d0eb748cc3ad3f94b06159"
+        },
+        "__v": 0
+      }
+    }
+  ],
+  "__v": 0
+}]

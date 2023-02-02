@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "63d0ebdc8cc3ad3f94b06162"
+  },
+  "title": "I Phone",
+  "price": 779,
+  "description": "6.7-inch Super Retina XDR display with OLED\r\nA14 Bionic chip with 16-core Neural Engine\r\nVideo playback: Up to 20 hours\r\n5G, Gigabit LTE and 802.11ax Wi‑Fi with 2x2 MIMO",
+  "imageUrl": "images\\7530852b-1eac-4415-a91b-f07f4c8b4f5f-refurb-iphone-12-pro-max-gold-2020 (1).jfif",
+  "userId": {
+    "$oid": "63d0eb748cc3ad3f94b06159"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ef03f5d8ff070c0b8553"
+  },
+  "title": "Mac book pro",
+  "price": 1299,
+  "description": "As you’d expect, a MacBook Pro refresh also means updated internals. The 13-inch Pro ($1,299-plus) now comes with 10th-generation Intel CPUs and new Intel Iris Plus graphics on select models",
+  "imageUrl": "images\\283ee9ed-2533-417e-b200-ad6a7cef6f04-cc201060-8ffe-11ea-aff7-9444289fde6e.cf.jpg",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ef9ef5d8ff070c0b855e"
+  },
+  "title": "mac book air",
+  "price": 600,
+  "description": "The only laptops with the M1 available so far are the $999 MacBook Air and the $1,299 entry-level 13-inch MacBook Pro.",
+  "imageUrl": "images\\aa801ab8-99f1-44f8-b1ba-e6e8f03b3ae5-c8aea820-28a0-11eb-9f89-5ddd62987703.jfif",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f012f5d8ff070c0b856d"
+  },
+  "title": "I phone 14 pro max",
+  "price": 1200,
+  "description": "Primary: 48MP sensor, 24 mm equivalent f/1.78 -aperture lens, second generation sensor-shift OIS, Dual Pixel AF\r\nUltra-wide: 12MP sensor, 13mm equivalent f/2.2-aperture lens, Dual Pixel AF\r\nTele: 12MP sensor, 77 mm equivalent f/2.8-aperture lens, OIS\r\nHDR video recording with Dolby Vision\r\nA16 Bionic chipset",
+  "imageUrl": "images\\998ab1ed-c679-4f11-9faa-9f249322b48e-Apple-iPhone-14-Pro_FINAL_featured-image-packshot-review-1.jpg",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f0b6f5d8ff070c0b85a3"
+  },
+  "title": "Hyundai Accent 2022",
+  "price": 30000,
+  "description": "ACCENT is the stylish that gives you technology, safety and value in spades. Smart tech keeps you connected and entertained, while advanced safety looks out for everyone on board. And with its impeccably modern style, ACCENT helps you stand out in all the right ways",
+  "imageUrl": "images\\d8fb74d5-8c13-49e5-b145-25dde30a1b81-1accent_-_239809_-_snow_white_pearl_isas.jpg",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f102f5d8ff070c0b85a9"
+  },
+  "title": "Nissan Sunny 2022",
+  "price": 28000,
+  "description": "The Sunny offers new car buyers 1.6-cc engine. Known for its reliability, the Nissan Sunny comes with features such as: Auto Headlamps, Central Locking, AUX, ABS (Anti-lock Brake System), among others. When compared to its main rival, this 5 Seater Sedan is found to be priced in line than the Mazda 3 Sedan at BHD 8,300",
+  "imageUrl": "images\\2381ce7b-5b1d-4c9d-9f52-66dbe168a78c-listing_main_2020_sunny_logo.jpg",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f149f5d8ff070c0b85af"
+  },
+  "title": "chevrolet trax",
+  "price": 50000,
+  "description": "If cheap and cheerful is your thing, then the 2022 Chevrolet Trax might be the SUV for you. This mini ute provides essential SUV elements such as a tall driving position, available all-wheel drive, and a practical cargo area, but it lacks modern creature",
+  "imageUrl": "images\\d5d17677-09aa-4872-bb52-81a0561975ec-2022-chevrolet-trax-mmp-1-1629819775.jpg",
+  "userId": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "__v": 0
+}]

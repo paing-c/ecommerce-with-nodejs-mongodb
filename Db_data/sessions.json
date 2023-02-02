@@ -1,0 +1,248 @@
+[{
+  "_id": "p8gpoU-OCByvFgTDJzg4HP6IKRN2FGrO",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675835054365"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "1v7qgXYF1dvTrUgcvkgbhBRL",
+    "flash": {},
+    "isLoggedIn": true,
+    "user": {
+      "cart": {
+        "items": [
+          {
+            "_id": {
+              "$oid": "63d0bd9d9f4f500e6817667f"
+            },
+            "productId": {
+              "$oid": "63d0b9d99f4f500e681765fc"
+            },
+            "quantity": 2
+          },
+          {
+            "_id": {
+              "$oid": "63d0c1889f4f500e68176725"
+            },
+            "productId": {
+              "$oid": "63d0bf8d9f4f500e681766ca"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "63d0b9529f4f500e681765e8"
+      },
+      "email": "testing123@gmail.com",
+      "password": "$2a$12$n8axBRvfR3NWYeYT39ijMuV0YOvoZPiDGgo9i8n/v6ioaMdeRacHi",
+      "__v": 0
+    }
+  }
+},{
+  "_id": "z9Rz8w_TOViPxCJUx38Krys5JW_uuGgs",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675839737222"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "y0sSG764hucGk5zLISkoidm4",
+    "flash": {},
+    "isLoggedIn": true,
+    "user": {
+      "cart": {
+        "items": [
+          {
+            "_id": {
+              "$oid": "63d0bd9d9f4f500e6817667f"
+            },
+            "productId": {
+              "$oid": "63d0b9d99f4f500e681765fc"
+            },
+            "quantity": 2
+          },
+          {
+            "_id": {
+              "$oid": "63d0c1889f4f500e68176725"
+            },
+            "productId": {
+              "$oid": "63d0bf8d9f4f500e681766ca"
+            },
+            "quantity": 4
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "63d0b9529f4f500e681765e8"
+      },
+      "email": "testing123@gmail.com",
+      "password": "$2a$12$n8axBRvfR3NWYeYT39ijMuV0YOvoZPiDGgo9i8n/v6ioaMdeRacHi",
+      "__v": 0
+    }
+  }
+},{
+  "_id": "5g7RgqBENhdd9LEgNIRz5vI5J51wQVJy",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675840129492"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "qL5cZC_5Js0jMTyx1trdDTeh",
+    "flash": {},
+    "isLoggedIn": true,
+    "user": {
+      "cart": {
+        "items": []
+      },
+      "_id": {
+        "$oid": "63d0d578d03191223091a3f8"
+      },
+      "email": "testing1@gmail.com",
+      "password": "$2a$12$xXuYjmOQbp6ohfGHyXup5OD1a6rgxlA2505ums5qBD75A1PuFdXNO",
+      "__v": 0
+    }
+  }
+},{
+  "_id": "Osd1FdUfUv9pJesGSLv7DsiBJq7OY5KK",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675844018181"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "iUsx4_K8nuUL3TVqgqO4s3Mf",
+    "flash": {},
+    "isLoggedIn": true,
+    "user": {
+      "cart": {
+        "items": [
+          {
+            "_id": {
+              "$oid": "63d0d585d03191223091a402"
+            },
+            "productId": {
+              "$oid": "63d0bf8d9f4f500e681766ca"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "63d0d578d03191223091a3f8"
+      },
+      "email": "testing1@gmail.com",
+      "password": "$2a$12$xXuYjmOQbp6ohfGHyXup5OD1a6rgxlA2505ums5qBD75A1PuFdXNO",
+      "__v": 0
+    }
+  }
+},{
+  "_id": "GPW8YVa-pvBbbGacMv0_CU_USpF8P-eM",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675845925399"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "5w-o_zNJhW2TMNqR8-0S1dZc",
+    "flash": {}
+  }
+},{
+  "_id": "nG1jYL4asam-lsF60-OXVCij-8naF8aM",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675847265496"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "auwy9ugA2oqPrqpgJVT9m8w4"
+  }
+},{
+  "_id": "n3RgdDOeAnJbp8QrX6dej4cNIO0EHwag",
+  "expires": {
+    "$date": {
+      "$numberLong": "1675849917500"
+    }
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "csrfSecret": "Mkjw3wbX__HMIXyXJajyO2fe",
+    "flash": {},
+    "isLoggedIn": true,
+    "user": {
+      "cart": {
+        "items": []
+      },
+      "_id": {
+        "$oid": "63d0ec038cc3ad3f94b0616a"
+      },
+      "email": "customer@gmail.com",
+      "password": "$2a$12$uF9.6RKAtxl1GL7O.Sezw.aNu0tPYwHA2KNGzNQeogJWU4fePAykq",
+      "__v": 0
+    }
+  }
+}]

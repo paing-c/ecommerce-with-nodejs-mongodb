@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63d0ec038cc3ad3f94b0616a"
+  },
+  "email": "customer@gmail.com",
+  "password": "$2a$12$uF9.6RKAtxl1GL7O.Sezw.aNu0tPYwHA2KNGzNQeogJWU4fePAykq",
+  "cart": {
+    "items": []
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ee79f5d8ff070c0b854b"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2a$12$XVkHxmH7EoydVgg43W0mD.jbRcAKej11DlLhs7/CO1/GjIjY/MIBW",
+  "cart": {
+    "items": []
+  },
+  "__v": 0
+}]
